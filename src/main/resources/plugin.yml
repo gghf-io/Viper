@@ -1,0 +1,4 @@
+name: Viper
+version: '${version}'
+main: io.gghf.viper.Viper
+api-version: '1.19'
